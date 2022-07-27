@@ -8,7 +8,7 @@ var respecConfig =
   publishDate: "2022-07-27",
   authors: [
     {
-      name: "Monique van Scherpenzeel",
+      name: "Tyora van der Meulen",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     }
