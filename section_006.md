@@ -6,9 +6,9 @@ Het in gebruik nemen van (een volgende versie van ) een standaardstaat centraal 
 
 Om softwareleveranciers en gebruikers te ondersteunen bij de implementatie van een nieuwe versie van de standaard, leveren wij verschillende bestanden en documentatie op:
 
-<ul><li>Implementatiebestanden</li>
-<li>Voorbeeldbestanden</li>
-<li>Voorbeeldberichten</li>
+<ul><li>Implementatiebestanden;</li>
+<li>Voorbeeldbestanden;</li>
+<li>Voorbeeldberichten.</li>
 </ul>
 
 Schema’s en Schematron (validatieregels) zijn voorbeelden van implementatiebestanden die als onderdeel van standaarden door Geonovum worden opgeleverd. Het kan hier ook gaan om implementatiebestanden voor visualisatieregels en iconen.
@@ -25,7 +25,7 @@ Ook certificering van applicaties is mogelijk. Certificering van applicaties ond
 
 ###         Opleiding
 
-Per standaard, en nieuwe versie van de standaard, bekijken we in hoeverre opleiding en advies van toegevoegde waarde zijn voor ondersteuning bij implementatie. De Geonovum wiki<span class='noot'>[4]<span class='noottekst'> Zie: http://wiki.geonovum.nl/<br/></span></span> zetten we bijvoorbeeld in bij grote wijzigingen van de standaard. Tijdens bijeenkomsten verzorgen wij workshops en presentaties. In de verschillende vakbladen publiceren wij artikelen.
+Per standaard, en nieuwe versie van de standaard, bekijken we in hoeverre opleiding en advies van toegevoegde waarde zijn voor ondersteuning bij implementatie. De [Geonovum wiki](http://wiki.geonovum.nl) zetten we bijvoorbeeld in bij grote wijzigingen van de standaard. Tijdens bijeenkomsten verzorgen wij workshops en presentaties. In de verschillende vakbladen publiceren wij artikelen.
 
 ###         Communicatie
 
@@ -33,19 +33,15 @@ Het hele wijzigingsproces staat of valt met een goede communicatie. Onder goede 
 
 <i>Website</i><i>(s)</i>
 
-De actuele vigerende versie van het Informatiemodel is de site docs.geostandaarden te raadplegen.
-
-<a href='https://docs.geostandaarden.nl/cvgg/img/' target='_blank'>https://docs.geostandaarden.nl/cvgg/img/</a>
+De actuele vigerende versie van het Informatiemodel is via het [documentenregister van Geonovum](https://docs.geostandaarden.nl/cvgg/img/)
 
 <i>Consultatie</i>
+
+Bij X-wijzigingen zal Geonovum de aanpassingen in het model in een publieke consultatie aan eenieder voorleggen.
 
 <i>Werkafspraken</i>
 
 De werkafspraken die bepalen hoe er in de tussentijd moet worden omgegaan met geconstateerde fouten en problemen (zie <a href='#_Ref80800946'>Hoofdstuk 5<a></a>). De werkafspraken publiceren wij via de Geonovum website. Door middel van nieuwsberichten op de website en het versturen van de nieuwsbrief in samenwerking met RWS en het ministerie van I en W informeren wij het werkveld over de nieuwe dan wel aangepaste werkafspraak.
-
-<i>Consultaties</i>
-
-Bij X-wijzigingen zal Geonovum de aanpassingen in het model in een publieke consultatie aan eenieder voorleggen.
 
 <i>Nieuwe producten inclusief releasenotes</i>
 
