@@ -22,8 +22,8 @@ var respecConfig =
   ],
   shortName: "wijzigingsprotocol",
   format: "markdown",
-  github: "https://github.com/Geonovum/geen-wijzigingsprotocol/",
-  issueBase: "https://github.com/Geonovum/geen-wijzigingsprotocol/issues/",
-  edDraftURI: "https://Geonovum.github.io/geen-wijzigingsprotocol/",
+  github: "https://github.com/Geonovum/IMG-wijzigingsprotocol/",
+  issueBase: "https://github.com/Geonovum/IMG-wijzigingsprotocol/issues/",
+  edDraftURI: "https://Geonovum.github.io/IMG-wijzigingsprotocol/",
   generatedSubtitle: "Werkversie 27 juli 2022"
 }
