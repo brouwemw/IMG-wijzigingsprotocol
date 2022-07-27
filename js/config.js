@@ -1,7 +1,7 @@
 var respecConfig =
 {
   subtitle: "Informatiemodel Geluid 2022",
-  pubDomain: "geen",
+  pubDomain: "img",
   specStatus: "GN-WV",
   specType: "BD",
   license: "cc-by-nd",
