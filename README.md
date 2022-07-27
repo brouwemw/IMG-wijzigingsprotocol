@@ -1,2 +1,2 @@
 # IMG-wijzigingsprotocol
-IMG-wijzigingsprotocol
+Wijzigingsprotocol Informatiemodel Geluid
