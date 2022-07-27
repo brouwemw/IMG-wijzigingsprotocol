@@ -1,6 +1,6 @@
 ## Gebruik van het wijzigingsprotocol
 
-Het protocol schrijft een vast stramien voor het wijziging van de standaard voor. Het protocol benoemt de fasen en op te leveren resultaten. Belangrijk zijn de randvoorwaarden en uitgangspunten. De gebruikers van het Informatiemodel betrekken wij bij het wijzigen van het model. We zetten op en rij welke betrokkenen er zijn.
+Het protocol schrijft een vast stramien voor het wijzigEN van de standaard voor. Het protocol benoemt de fasen en op te leveren resultaten. Belangrijk zijn de randvoorwaarden en uitgangspunten. De gebruikers van het Informatiemodel betrekken wij bij het wijzigen van het model. We zetten op en rij welke betrokkenen er zijn.
 
 ### Protocol versus proces
 
@@ -27,17 +27,14 @@ Elk product van onze standaarden voorzien wij van een versienummer. Dit doen wij
 
 <ul><li><b>X-wijzigingen</b> Deze wijzigingen veranderen de structuur van de standaard. Hierdoor zijn X-wijzigingen niet backwards compatible.</li>
 </ul>
-
 <u>Frequentie</u>: maximaal 1 keer per 3 jaar.
 
 <ul><li><b>Y-wijzigingen</b> Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waarde lijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible.</li>
 </ul>
-
 <u>Frequentie</u>: maximaal 1 keer per jaar.
 
 <ul><li><b>Z-wijzigingen</b> Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible.</li>
 </ul>
-
 <u>Frequentie</u>: zo spoedig mogelijk na constatering.
 
 #### Oudere versie van een standaard
