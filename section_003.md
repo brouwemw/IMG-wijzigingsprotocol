@@ -60,7 +60,7 @@ Deze dienen zo snel als mogelijk uitgevoerd te worden. De inhoudelijke fase word
 
 Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in <a href='#_Ref503260625'>Figuur 1<a></a>.
 
-<figure style='width: 30%;'><a name='_Ref503260625'></a><img src='media/image3.png' alt='media/image3.png'></img>
+<figure style='width: 35%;'><a name='_Ref503260625'></a><img src='media/image3.png' alt='media/image3.png'></img>
 <figcaption><a name='_Ref503260625'></a>Fasen wijzigingsproces</figcaption></figure>
 
 <b>Inhoud</b>
