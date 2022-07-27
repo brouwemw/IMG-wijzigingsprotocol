@@ -25,7 +25,7 @@ Ook certificering van applicaties is mogelijk. Certificering van applicaties ond
 
 ###         Opleiding
 
-Per standaard, en nieuwe versie van de standaard, bekijken we in hoeverre opleiding en advies van toegevoegde waarde zijn voor ondersteuning bij implementatie. De [Geonovum wiki](http://wiki.geonovum.nl) zetten we bijvoorbeeld in bij grote wijzigingen van de standaard. Tijdens bijeenkomsten verzorgen wij workshops en presentaties. In de verschillende vakbladen publiceren wij artikelen.
+Per standaard, en nieuwe versie van de standaard, bekijken we in hoeverre opleiding en advies van toegevoegde waarde zijn voor ondersteuning bij implementatie. De <a href='http://wiki.geonovum.nl' target='_blank'>Geonovum wiki</a> zetten we bijvoorbeeld in bij grote wijzigingen van de standaard. Tijdens bijeenkomsten verzorgen wij workshops en presentaties. In de verschillende vakbladen publiceren wij artikelen.
 
 ###         Communicatie
 
@@ -33,7 +33,7 @@ Het hele wijzigingsproces staat of valt met een goede communicatie. Onder goede 
 
 <i>Website</i><i>(s)</i>
 
-De actuele vigerende versie van het Informatiemodel is via het [documentenregister van Geonovum](https://docs.geostandaarden.nl/cvgg/img/)
+De actuele vigerende versie van het Informatiemodel is via het <a href='https://docs.geostandaarden.nl/cvgg/img/' target='_blank'>documentenregister van Geonovum</a>.
 
 <i>Consultatie</i>
 
