@@ -26,20 +26,16 @@ Bij een standaard in beheer horen ook afspraken over het versiebeheer. Versies v
 Elk product van onze standaarden voorzien wij van een versienummer. Dit doen wij conform Semantic Versioning (SemVer). Elk product heeft zijn eigen versienummer conform X.Y.Z schrijfwijze, bijvoorbeeld versie 2.1.0 (=X.Y.Z):
 
 <ul><li><b>X-wijzigingen</b> Deze wijzigingen veranderen de structuur van de standaard. Hierdoor zijn X-wijzigingen niet backwards compatible.</li>
-</ul>
-<u>Frequentie</u>: maximaal 1 keer per 3 jaar.
+</ul> <u>Frequentie</u>: maximaal 1 keer per 3 jaar.
 
 <ul><li><b>Y-wijzigingen</b> Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waarde lijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible.</li>
-</ul>
-<u>Frequentie</u>: maximaal 1 keer per jaar.
+</ul> <u>Frequentie</u>: maximaal 1 keer per jaar.
 
-<ul><li><b>Z-wijzigingen</b> Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible.</li>
-</ul>
-<u>Frequentie</u>: zo spoedig mogelijk na constatering.
+<ul><li><b>Z-wijzigingen</b> Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible.</li> </ul> <u>Frequentie</u>: zo spoedig mogelijk na constatering.
 
 #### Oudere versie van een standaard
 
-Na het uitbrengen van een nieuwe versie van een bij Geonovum in beheer zijnde standaard oudere versies beschikbaar en zijn vindbaar via de Geonovum website en de registers (de conceptenbibliotheek<span class='noot'>[1]<span class='noottekst'> Zie: https://definities.geostandaarden.nl<br/></span></span>, het technisch register<span class='noot'>[2]<span class='noottekst'> Zie: https://register.geostandaarden.nl<br/></span></span> en het documentenregister<span class='noot'>[3]<span class='noottekst'> Zie: https://docs.geostandaarden.nl<br/></span></span>). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een standaard wordt de ontwikkeling van de oude versie stopgezet.
+Na het uitbrengen van een nieuwe versie van een bij Geonovum in beheer zijnde standaard oudere versies beschikbaar en zijn vindbaar via de Geonovum website en de registers (de [conceptenbibliotheek](https://definities.geostandaarden.nl), het [technisch register](https://register.geostandaarden.nl) en het [documentenregister](https://docs.geostandaarden.nl). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een standaard wordt de ontwikkeling van de oude versie stopgezet.
 
 De SemVer-methodiek schrijft backwards compatibility voor op het Y-niveau. Na het uitbrengen van een nieuwe versie van een bij Geonovum in beheer zijnde standaard blijven oudere versies beschikbaar en zijn vindbaar via de Geonovum website. Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een standaard wordt de ontwikkeling van de oude versie stop gezet.
 
@@ -64,20 +60,20 @@ Deze dienen zo snel als mogelijk uitgevoerd te worden. De inhoudelijke fase word
 
 ### <a name='_Ref503261432'></a>Fasen en resultaten
 
-Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in <a href='#_Ref503260625'>Figuur 1<a></a> <a href='#_Ref503260625'>Figuur 1<a></a>.
+Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in <a href='#_Ref503260625'>Figuur 1<a></a>.
 
 <figure><a name='_Ref503260625'></a><img src='media/image3.png' alt='media/image3.png' style='width: 100%;'></img>
-<figcaption><a name='_Ref503260625'></a>Figuur 1 Fasen wijzigingsproces</figcaption></figure>
+<figcaption><a name='_Ref503260625'></a>Fasen wijzigingsproces</figcaption></figure>
 
-<b>I</b><b>nhoud</b>
+<b>Inhoud</b>
 
 In de fase inhoud wordt voor iedere melding bepaald of deze wordt opgenomen in de nieuwe versie van de standaard of niet. Dit wordt door Geonovum intern vastgelegd in Jira en is raadpleegbaar op de website van Geonovum. Voor meldingen die worden meegenomen in de nieuwe versie van de standaard, worden oplossingen uitgewerkt, op basis waarvan vervolgens de specificatie wordt aangepast. Dit gebeurt door Geonovum in samenwerking met inhoudelijke experts in de werkgroep. Afhankelijk van de omvang van de wijziging ten opzichte van de voorgaande versie is de groep van experts evenredig groter of kleiner.
 
-<b>T</b><b>oetsing</b>
+<b>Toetsing</b>
 
 De fase Toetsing vormt een brug tussen de inhoud, besluitvorming en de implementatie. In deze fase wordt eenieder (X, Y wijziging) of een beperkte groep belanghebbenden (Z wijziging) uitgenodigd om zijn visie te geven op de nieuwe versie van de standaard. De reacties uit de consultatie worden verwerkt in de specificatie.
 
-<b>B</b><b>esluitvorming</b>
+<b>Besluitvorming</b>
 
 Bij Besluitvorming wordt besloten om de gewijzigde specificatie vast te stellen en te publiceren. Afhankelijk van het type wijziging (X, Y of Z, zie paragraaf <a href='#_Ref482110995'>3.3<a></a>), besluit het ministerie dan wel de functioneel beheerder.
 
