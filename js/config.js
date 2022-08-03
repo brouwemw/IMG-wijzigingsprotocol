@@ -1,6 +1,6 @@
 var respecConfig =
 {
-  subtitle: "Informatiemodel Geluid 2022",
+  subtitle: "Informatiemodel Geluid",
   pubDomain: "img",
   specStatus: "GN-WV",
   specType: "BD",
