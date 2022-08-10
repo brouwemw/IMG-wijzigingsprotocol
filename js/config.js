@@ -5,7 +5,7 @@ var respecConfig =
   specStatus: "GN-WV",
   specType: "BD",
   license: "cc-by-nd",
-  publishDate: "2022-07-27",
+  publishDate: "2022-08-10",
   authors: [
     {
       name: "Tyora van der Meulen",
