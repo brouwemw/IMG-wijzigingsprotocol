@@ -33,7 +33,7 @@ Het hele wijzigingsproces staat of valt met een goede communicatie. Onder goede 
 
 <i>Website</i><i>(s)</i>
 
-De actuele vigerende versie van het Informatiemodel is via het <a href='https://docs.geostandaarden.nl/cvgg/img/' target='_blank'>documentenregister van Geonovum</a>.
+De actuele vigerende versie van het Informatiemodel is via het <a href='https://docs.geostandaarden.nl/cvgg/img/' target='_blank'>documentenregister van Geonovum</a> beschikbaar.
 
 <i>Consultatie</i>
 
